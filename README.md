@@ -6,7 +6,7 @@ Next.js static blog using Notion as a Content Management System (CMS). Supports 
 
 [Demo Blog](https://morethan-log.vercel.app) | [Demo Resume](https://morethan-log.vercel.app/resume)
 
-## Features
+## Features 
 
 **📒 Writing posts using notion**
 
